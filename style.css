@@ -82,10 +82,15 @@ body {
   padding: 10px;
 }
 
-#github {
+.social-media{
   display: inline-block;
-  margin-top: 30px;
+  margin-top: 20px;
   text-align: center;
+  text-decoration: none;
+  color:#243038;
+}
+li {
+  list-style: none;
 }
 
 summary {
